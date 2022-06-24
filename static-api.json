@@ -1,0 +1,11 @@
+[
+    {
+        "users": [{
+            "id": 1,
+            "nama": "Nama : Mohammad Fahri", 
+            "nim": "Nim : 6706200064",
+            "kelas": "Kelas : D3RPlA 44-04",
+            "asal": "Kota Asal : Cirebon"
+        }]
+    }
+]
