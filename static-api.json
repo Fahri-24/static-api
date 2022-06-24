@@ -1,9 +1,8 @@
 [
     {
      "id": 1,
-     "nama": "Nama : Mohammad Fahri", 
-     "nim": "Nim : 6706200064",
-     "kelas": "Kelas : D3RPlA 44-04",
-     "asal": "Kota Asal : Cirebon"
+     "copyright": "Konversi Suhu merupakan sebuah aplikasi Android untuk
+mengkonversi suhu dari celcius ke satuan suhu yang lain.\n\nDengan adanya aplikasi ini diharapkan dapat memudahkan orang ketika ingin
+        mengkonversi suhu dari celcius ke satuan suhu yang lain.\n\nAplikasi ini dibuat untuk memenuhi assessment 2 mata kuliah mobpro\n\nCopyright © 2022 Mohammad Fahri.\nAll rights reserved."
     }
 ]
